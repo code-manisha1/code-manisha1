@@ -18,11 +18,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 I have a **B.Com in Accounting & Finance** from Bangalore University.
-- 📈 I work as a **Growth Associate at Zenith School of AI**, where I run influencer marketing campaigns end to end.
-- 📊 I care about **the data behind every campaign**: views, engagement, conversions and admissions.
-- 🤖 I'm now learning to use **AI and automation** to solve the business problems I see every day.
-- 🌱 I'm a **beginner in programming**, and this GitHub is where I learn in public.
+-  I have a **B.Com in Accounting & Finance** from Bangalore University.
+-  I work as a **Growth Associate at Zenith School of AI**, where I run influencer marketing campaigns end to end.
+-  I care about **the data behind every campaign**: views, engagement, conversions and admissions.
+-  I'm now learning to use **AI and automation** to solve the business problems I see every day.
+-  I'm a **beginner in programming**, and this GitHub is where I learn in public.
 
 ---
 
@@ -79,11 +79,11 @@
 
 | Area | Project | Status |
 |:--|:--|:--|
-| ⚙️ AI Automation | *Coming soon* | 🚧 Planned |
-| 📈 Business & Growth | *Coming soon* | 🚧 Planned |
-| 📊 Data Analysis | *Coming soon* | 🚧 Planned |
-| 🤖 AI-Powered App | *Coming soon* | 🚧 Planned |
-| ⏱️ Productivity | *Coming soon* | 🚧 Planned |
+|  AI Automation | *Coming soon* | 🚧 Planned |
+|  Business & Growth | *Coming soon* | 🚧 Planned |
+|  Data Analysis | *Coming soon* | 🚧 Planned |
+|  AI-Powered App | *Coming soon* | 🚧 Planned |
+|  Productivity | *Coming soon* | 🚧 Planned |
 
 ---
 
