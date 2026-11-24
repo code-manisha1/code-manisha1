@@ -30,10 +30,10 @@
 
 | When | Role | What I did |
 |:--|:--|:--|
-| **Feb 2026 – Present** | **Growth Associate**, Zenith School of AI | Manage influencer campaigns from creator outreach to delivery · Work with 40+ creators and agencies · Use UTM tracking to link leads and admissions to campaigns |
-| **Apr 2025 – Feb 2026** | **Program Associate**, Polaris School of Technology | Analysed student progress data to find drop-off points · Designed engagement touchpoints · Onboarded 50+ mentors · Drove hostel sales conversions for 100+ students |
-| **Mar 2024 – Apr 2024** | **Sales & Marketing Intern**, Palis Decor | Supported lead generation, promotional content and customer outreach |
-| **2021 – 2024** | **B.Com, Accounting & Finance**, Bangalore University | Built my foundation in business, finance and numbers |
+| **Feb 2026 - Present** | **Growth Associate**, Zenith School of AI | Manage influencer campaigns from creator outreach to delivery · Work with 40+ creators and agencies · Use UTM tracking to link leads and admissions to campaigns |
+| **Apr 2025 - Feb 2026** | **Program Associate**, Polaris School of Technology | Analysed student progress data to find drop-off points · Designed engagement touchpoints · Onboarded 50+ mentors · Drove hostel sales conversions for 100+ students |
+| **Mar 2024 - Apr 2024** | **Sales & Marketing Intern**, Palis Decor | Supported lead generation, promotional content and customer outreach |
+| **2021 - 2024** | **B.Com, Accounting & Finance**, Bangalore University | Built my foundation in business, finance and numbers |
 
 ---
 
@@ -79,11 +79,11 @@
 
 | Area | Project | Status |
 |:--|:--|:--|
-|  AI Automation | *Coming soon* | 🚧 Planned |
-|  Business & Growth | *Coming soon* | 🚧 Planned |
-|  Data Analysis | *Coming soon* | 🚧 Planned |
-|  AI-Powered App | *Coming soon* | 🚧 Planned |
-|  Productivity | *Coming soon* | 🚧 Planned |
+|  AI Automation | *Coming soon* |  Planned |
+|  Business & Growth | *Coming soon* |  Planned |
+|  Data Analysis | *Coming soon* |  Planned |
+|  AI-Powered App | *Coming soon* |  Planned |
+|  Productivity | *Coming soon* | Planned |
 
 ---
 
